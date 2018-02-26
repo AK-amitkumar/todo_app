@@ -7,4 +7,9 @@
         # Ch04 Models
         'security/ir.model.access.csv',
     ],
+    # Ch05 Demo Data
+    'demo': [
+        'data/todo.task.csv',
+        'data/todo_task.xml',
+    ],
 }
