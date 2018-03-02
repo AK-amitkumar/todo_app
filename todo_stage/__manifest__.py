@@ -6,6 +6,8 @@
     'data': [
         # Ch04 Models
         'security/ir.model.access.csv',
+        # Ch09 Views
+        'views/todo_view.xml',
     ],
     # Ch05 Demo Data
     'demo': [
