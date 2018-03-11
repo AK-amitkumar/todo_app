@@ -11,6 +11,9 @@
         # Ch10 Kanban Views
         'views/todo_kanban_view.xml',
         'views/todo_kanban_assets.xml',
+        # Ch11 QWeb Reports
+        'reports/todo_report.xml',
+        'reports/todo_model_report.xml',
     ],
     # Ch05 Demo Data
     'demo': [
