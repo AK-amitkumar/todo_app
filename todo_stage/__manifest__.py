@@ -8,6 +8,9 @@
         'security/ir.model.access.csv',
         # Ch09 Views
         'views/todo_view.xml',
+        # Ch10 Kanban Views
+        'views/todo_kanban_view.xml',
+        'views/todo_kanban_assets.xml',
     ],
     # Ch05 Demo Data
     'demo': [
